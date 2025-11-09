@@ -24,6 +24,8 @@ public class GitHubTest {
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get(Constants.URL);
+
+		
 	}
 
 	/*
