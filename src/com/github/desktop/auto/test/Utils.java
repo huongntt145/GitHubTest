@@ -1,11 +1,8 @@
 package com.github.desktop.auto.test;
-
 import static org.testng.Assert.fail;
-
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map.Entry;
-
 public class Utils {
 	public static float maxWatchers = 0;
 
